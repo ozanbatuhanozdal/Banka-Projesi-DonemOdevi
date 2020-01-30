@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558354149 source:c:\users\ozan\desktop\c\donemodevi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
